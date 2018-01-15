@@ -1,0 +1,59 @@
+
+
+h2 {
+	color: #black;
+	font-size: 4vmax;
+/*	background-color: #cccbcb;*/
+	padding-bottom: 1.5vmax;
+	margin: 0px;
+	font-style: italic;
+	font-family: 'Gloria Hallelujah', cursive;
+	padding-top: 1.5vmax;
+	padding-left: 1vmax;
+
+}
+
+.alnright { text-align: right; }
+
+
+table { 
+/*	width: 80% !important;*/
+	margin-top: 30px !important;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+.negative {
+	color: red;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 1.5vmax;
+	top: -7vmax;
+	position: relative;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+    font-size: 1vmax;
+    }
+
+#main {
+	margin: 0 auto !important;
+	position: relative;
+	width: 80% !important;
+	left: 10%;
+	float: left;
+	clear: both;
+}
+
+#colorOption {
+	color: green;
+}
+
+.colored {
+    color:red !important;
+}

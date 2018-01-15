@@ -1,0 +1,9 @@
+INFO:root:ReST Query Made at 01-12-2018 21:34
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): query.yahooapis.com
+INFO:root:01-12-2018 21:34Began parsing JSON response
+INFO:root:ReST Query Made at 01-12-2018 21:44
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): query.yahooapis.com
+INFO:root:01-12-2018 21:44Began parsing JSON response
+INFO:root:ReST Query Made at 01-12-2018 21:45
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): query.yahooapis.com
+INFO:root:01-12-2018 21:45Began parsing JSON response

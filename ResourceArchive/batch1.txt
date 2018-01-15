@@ -1,0 +1,27 @@
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time Price provided for free by IEX (https://iextrading.com/developer/).",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "BABA",
+            "2. price": "187.7700",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:58"
+        },
+        {
+            "1. symbol": "MU",
+            "2. price": "42.7900",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:59"
+        },
+        {
+            "1. symbol": "SQ",
+            "2. price": "41.2550",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:47"
+        }
+    ]
+}

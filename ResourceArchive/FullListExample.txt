@@ -1,0 +1,573 @@
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time Price provided for free by IEX (https://iextrading.com/developer/).",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "ADBE",
+            "2. price": "195.0100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:56"
+        },
+        {
+            "1. symbol": "AAP",
+            "2. price": "115.9300",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:56"
+        },
+        {
+            "1. symbol": "ADVM",
+            "2. price": "3.9750",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:42"
+        },
+        {
+            "1. symbol": "ACM",
+            "2. price": "39.0450",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:49"
+        },
+        {
+            "1. symbol": "AER",
+            "2. price": "54.2300",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:54"
+        },
+        {
+            "1. symbol": "AERI",
+            "2. price": "58.6250",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:42"
+        },
+        {
+            "1. symbol": "HIVE",
+            "2. price": "5.9050",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:52:56"
+        },
+        {
+            "1. symbol": "AGEN",
+            "2. price": "3.8750",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:25"
+        },
+        {
+            "1. symbol": "AGRX",
+            "2. price": "0.0000",
+            "3. volume": "--",
+            "4. timestamp": "1969-12-31 19:00:00"
+        },
+        {
+            "1. symbol": "AGIO",
+            "2. price": "75.0200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "AL",
+            "2. price": "50.1250",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:41"
+        },
+        {
+            "1. symbol": "ATSG",
+            "2. price": "24.5850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:48"
+        },
+        {
+            "1. symbol": "AKRX",
+            "2. price": "33.5550",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "ALK",
+            "2. price": "73.5300",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "AMRI",
+            "2. price": "21.7550",
+            "3. volume": "--",
+            "4. timestamp": "2017-08-31 15:59:08"
+        },
+        {
+            "1. symbol": "ALXN",
+            "2. price": "122.7100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:50"
+        },
+        {
+            "1. symbol": "BABA",
+            "2. price": "187.7700",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:58"
+        },
+        {
+            "1. symbol": "ALGN",
+            "2. price": "258.2300",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:41"
+        },
+        {
+            "1. symbol": "ALKS",
+            "2. price": "58.7050",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:50"
+        },
+        {
+            "1. symbol": "ALLE",
+            "2. price": "85.0200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:57"
+        },
+        {
+            "1. symbol": "ADS",
+            "2. price": "276.4800",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:45"
+        },
+        {
+            "1. symbol": "AB",
+            "2. price": "27.2500",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:01"
+        },
+        {
+            "1. symbol": "MDRX",
+            "2. price": "16.0150",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:58"
+        },
+        {
+            "1. symbol": "ALL",
+            "2. price": "102.0900",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "ALLY",
+            "2. price": "30.5350",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "AWP",
+            "2. price": "6.8850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:32:55"
+        },
+        {
+            "1. symbol": "AOD",
+            "2. price": "9.7350",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:09"
+        },
+        {
+            "1. symbol": "AABA",
+            "2. price": "75.8400",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "AFSI",
+            "2. price": "12.9850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:33"
+        },
+        {
+            "1. symbol": "AMZN",
+            "2. price": "1305.1600",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "AMBA",
+            "2. price": "54.9100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:45"
+        },
+        {
+            "1. symbol": "AAL",
+            "2. price": "58.5100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:57"
+        },
+        {
+            "1. symbol": "AXL",
+            "2. price": "18.7900",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:52"
+        },
+        {
+            "1. symbol": "AEO",
+            "2. price": "18.3300",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:53"
+        },
+        {
+            "1. symbol": "AEL",
+            "2. price": "33.9200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:50"
+        },
+        {
+            "1. symbol": "AXP",
+            "2. price": "100.9600",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:56"
+        },
+        {
+            "1. symbol": "AMP",
+            "2. price": "182.0500",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "ABC",
+            "2. price": "98.9800",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "AMGN",
+            "2. price": "185.0400",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:59"
+        },
+        {
+            "1. symbol": "AMKR",
+            "2. price": "10.4750",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:40"
+        },
+        {
+            "1. symbol": "ADI",
+            "2. price": "92.0200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "ANDX",
+            "2. price": "54.2850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:50"
+        },
+        {
+            "1. symbol": "BUD",
+            "2. price": "114.9400",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:40"
+        },
+        {
+            "1. symbol": "APOG",
+            "2. price": "46.7300",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:36"
+        },
+        {
+            "1. symbol": "APO",
+            "2. price": "36.1200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:57"
+        },
+        {
+            "1. symbol": "AMAT",
+            "2. price": "53.4000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:57"
+        },
+        {
+            "1. symbol": "AAOI",
+            "2. price": "35.7800",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:19"
+        },
+        {
+            "1. symbol": "APTV",
+            "2. price": "92.9200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "PETX",
+            "2. price": "5.2150",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:15"
+        },
+        {
+            "1. symbol": "ADM",
+            "2. price": "40.4850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:56"
+        },
+        {
+            "1. symbol": "ASC",
+            "2. price": "8.2000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:30"
+        },
+        {
+            "1. symbol": "ARNA",
+            "2. price": "35.0000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:12"
+        },
+        {
+            "1. symbol": "ANET",
+            "2. price": "258.7100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:25"
+        },
+        {
+            "1. symbol": "AI",
+            "2. price": "11.8850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:45"
+        },
+        {
+            "1. symbol": "ARRY",
+            "2. price": "13.7000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "ARW",
+            "2. price": "83.6600",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "ARWR",
+            "2. price": "5.7250",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:53"
+        },
+        {
+            "1. symbol": "AJG",
+            "2. price": "63.8850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "APAM",
+            "2. price": "39.8000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:58"
+        },
+        {
+            "1. symbol": "ASNA",
+            "2. price": "2.1000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:59"
+        },
+        {
+            "1. symbol": "AHT",
+            "2. price": "6.7100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:55:02"
+        },
+        {
+            "1. symbol": "AZPN",
+            "2. price": "75.0950",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:27"
+        },
+        {
+            "1. symbol": "ASB",
+            "2. price": "26.5750",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:37"
+        },
+        {
+            "1. symbol": "AT",
+            "2. price": "2.4250",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:49:59"
+        },
+        {
+            "1. symbol": "AY",
+            "2. price": "21.0800",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:56"
+        },
+        {
+            "1. symbol": "AN",
+            "2. price": "57.9500",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:48"
+        },
+        {
+            "1. symbol": "ATHM",
+            "2. price": "77.8750",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:01"
+        },
+        {
+            "1. symbol": "ALV",
+            "2. price": "136.2700",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:31"
+        },
+        {
+            "1. symbol": "AVY",
+            "2. price": "119.3000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:59"
+        },
+        {
+            "1. symbol": "CAR",
+            "2. price": "49.1800",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:52"
+        },
+        {
+            "1. symbol": "AAXN",
+            "2. price": "27.5600",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:54"
+        },
+        {
+            "1. symbol": "BBT",
+            "2. price": "53.1400",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:54"
+        },
+        {
+            "1. symbol": "BBX",
+            "2. price": "9.1900",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:50"
+        },
+        {
+            "1. symbol": "BGCP",
+            "2. price": "14.7850",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "BJRI",
+            "2. price": "37.6250",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:06"
+        },
+        {
+            "1. symbol": "BMCH",
+            "2. price": "24.5500",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:42"
+        },
+        {
+            "1. symbol": "BT",
+            "2. price": "18.9150",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:50:11"
+        },
+        {
+            "1. symbol": "BIDU",
+            "2. price": "252.9700",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:58"
+        },
+        {
+            "1. symbol": "BLDP",
+            "2. price": "4.2000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:29"
+        },
+        {
+            "1. symbol": "BANC",
+            "2. price": "21.4750",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:52"
+        },
+        {
+            "1. symbol": "BBD",
+            "2. price": "10.9950",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:57"
+        },
+        {
+            "1. symbol": "TBBK",
+            "2. price": "10.8600",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:41"
+        },
+        {
+            "1. symbol": "OZRK",
+            "2. price": "52.4500",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:58"
+        },
+        {
+            "1. symbol": "BMO",
+            "2. price": "81.9900",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:47:26"
+        },
+        {
+            "1. symbol": "BNS",
+            "2. price": "65.8200",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:14"
+        },
+        {
+            "1. symbol": "BKU",
+            "2. price": "43.1950",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:44"
+        },
+        {
+            "1. symbol": "RATE",
+            "2. price": "14.0250",
+            "3. volume": "--",
+            "4. timestamp": "2017-11-08 15:58:45"
+        },
+        {
+            "1. symbol": "CUDA",
+            "2. price": "27.5000",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:01"
+        },
+        {
+            "1. symbol": "BECN",
+            "2. price": "63.4600",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:55"
+        },
+        {
+            "1. symbol": "BZH",
+            "2. price": "20.2350",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:58:48"
+        },
+        {
+            "1. symbol": "BDX",
+            "2. price": "227.7400",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:58"
+        },
+        {
+            "1. symbol": "BBBY",
+            "2. price": "22.8350",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:57"
+        },
+        {
+            "1. symbol": "BERY",
+            "2. price": "60.1800",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:59:44"
+        },
+        {
+            "1. symbol": "BCRX",
+            "2. price": "5.6100",
+            "3. volume": "--",
+            "4. timestamp": "2018-01-12 15:57:13"
+        }
+    ]
+}

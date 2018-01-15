@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Stock Momentum Tracker">
+	<meta name="keywords" content="NULL">
+	<meta name="viewport" content="initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>StockWatch</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css">
+
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+
+
+
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+	<link rel="shortcut icon" href="{{ url_for('static', filename='faviconA.ico') }}" >
+
+
+
+
+</head>
+
+
+
+
+<body>
+<div id="header">
+	<h2>StockWatch<span style='font-size:30px'>  By John</span></h2>
+</div>
+<div id="main" class="col-md-8">
+<table class="table table-hover table-responsive " id="targetTable">
+	<thead class="thead-dark">
+		<tr>
+			<th scope="col">Ticker</th>
+			<th scope="col" class='alnright'>Last Price</th>
+			<th scope="col" class='alnright'>Last Volume</th>
+			<th scope="col" class='alnright'>3Day Price Momentum</th>
+			<th scope="col" class='alnright'>3Day Volume Momentum</th>
+			<th scope="col" class='alnright'>Weighted Momentum</th>
+		</tr>
+	</thead>
+{% for item in items %}
+    <tr scope="row">
+        <td class='col-md-1'>{{item[0]}}</td>
+        <td class='alnright col-md-1'>${{item[1]}}</td>
+        <td class='alnright col-md-1'>{{item[2]}}</td>
+        <td class='alnright col-md-1' id="colorOption"><i>{{item[3]}}</i></td>
+        <td class='alnright col-md-1' id="colorOption"><i>{{item[4]}}</i></td>
+        <td class='alnright col-md-1'><i>{{item[5]}}</i></td>
+    </tr>
+{% endfor %}
+</table>
+</div>
+</body>
+<div id='footer'>
+	<a href="/about">About</a>
+</div>
+
+
+<!-- Jquery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- Datatables -->
+<script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+<!-- Bootstrap -->
+<script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js"></script>
+
+
+	<script type="text/javascript" class="init">
+	$(document).ready(function() {
+    	$('#targetTable').DataTable({
+    		"order": [[ 5, "desc" ]]
+    	});
+		});
+
+	 	$('#colorOption').each(function() {
+    		var cellvalue = $.trim($(this).text());
+    		if ( cellvalue.substring(0,1) == '-' ) {
+        		$(this).wrapInner('<span class="colored"></span>');    
+    		}
+		});  
+	</script>
+
+
+
+<html>
+
