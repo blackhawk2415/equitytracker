@@ -78,14 +78,15 @@
     	$('#targetTable').DataTable({
     		"order": [[ 5, "desc" ]]
     	});
-		});
+
 
 	 	$('#colorOption').each(function() {
     		var cellvalue = $.trim($(this).text());
     		if ( cellvalue.substring(0,1) == '-' ) {
         		$(this).wrapInner('<span class="colored"></span>');    
     		}
-		});  
+		});
+				});  
 	</script>
 
 
